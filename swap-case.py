@@ -1,3 +1,13 @@
-class Solution:
-    def convertTemperature(self, celsius: float) -> List[float]:
-        return [celsius + 273.15, celsius * 1.80 + 32.00]
+def swap_case(s):
+    res = ""
+    for char in s:
+        if char.isupper():
+            res += char.lower()
+        else:
+            res += char.upper()
+    return res
+
+if __name__ == '__main__':
+    s = input()
+    result = swap_case(s)
+    print(result)
