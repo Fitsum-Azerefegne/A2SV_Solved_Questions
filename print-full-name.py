@@ -1,13 +1,8 @@
-def swap_case(s):
-    res = ""
-    for char in s:
-        if char.isupper():
-            res += char.lower()
-        else:
-            res += char.upper()
-    return res
+def print_full_name(first, last):
+    print(f"Hello {first} {last}! You just delved into python.")
+    # Write your code here
 
 if __name__ == '__main__':
-    s = input()
-    result = swap_case(s)
-    print(result)
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
