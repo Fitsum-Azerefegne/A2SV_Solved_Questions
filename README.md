@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 ## Simulation
@@ -56,19 +58,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Quickselect
 |  |
