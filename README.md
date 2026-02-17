@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
