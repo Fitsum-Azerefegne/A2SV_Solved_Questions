@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1528-shuffle-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -140,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
