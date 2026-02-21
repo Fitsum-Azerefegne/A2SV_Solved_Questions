@@ -1,13 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        freq_hash = defaultdict(int)
-        n = len(nums)
-        answer = []
-        for num in nums:
-            freq_hash[num] += 1
-        for num, freq in freq_hash.items():
-            if freq > n//3:
-                answer.append(num)
-        return answer
-
+        freq = len(nums) // 3
+        hash_map = defaultdict(int)
+        output = []
+        for n in nums:
+            hash_map[n] += 1
+        for n in nums:
+            if hash_map[n] > freq:
+                output.append(n)
+        return list(set(output))
         
