@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 ## Greedy
