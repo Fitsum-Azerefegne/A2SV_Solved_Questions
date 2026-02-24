@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
