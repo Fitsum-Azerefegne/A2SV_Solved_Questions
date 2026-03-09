@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2381-shifting-letters-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
