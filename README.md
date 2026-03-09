@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0763-partition-labels](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2381-shifting-letters-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
