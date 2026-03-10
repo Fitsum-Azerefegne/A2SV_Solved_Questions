@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
@@ -317,4 +321,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
