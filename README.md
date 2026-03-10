@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
