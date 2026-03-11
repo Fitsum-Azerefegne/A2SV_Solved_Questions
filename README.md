@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0763-partition-labels](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0856-score-of-parentheses](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1528-shuffle-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
