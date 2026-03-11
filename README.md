@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
