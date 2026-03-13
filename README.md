@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [1472-design-browser-history](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
