@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Design
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Union-Find
 |  |
 | ------- |
