@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0394-decode-string) |
