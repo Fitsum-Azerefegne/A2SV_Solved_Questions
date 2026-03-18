@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String Matching
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
