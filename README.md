@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
