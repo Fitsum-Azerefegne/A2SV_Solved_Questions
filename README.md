@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Design
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Union-Find
 |  |
 | ------- |
