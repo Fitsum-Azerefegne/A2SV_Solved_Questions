@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
@@ -459,5 +460,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
