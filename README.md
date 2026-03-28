@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -462,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
