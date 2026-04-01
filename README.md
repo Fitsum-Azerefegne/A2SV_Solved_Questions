@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Queue
 |  |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -467,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
+| [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Backtracking
 |  |
