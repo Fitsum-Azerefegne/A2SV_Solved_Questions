@@ -10,5 +10,3 @@ class Solution:
         for i in range(len(nums)):
             except_self[i] = product_left[i] * product_right[i]
         return except_self
-
-            
