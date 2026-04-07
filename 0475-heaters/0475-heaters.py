@@ -26,4 +26,3 @@ class Solution:
             max_radius = max(max_radius, min_distance)
 
         return max_radius
-
