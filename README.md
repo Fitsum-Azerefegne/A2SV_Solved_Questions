@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0475-heaters) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
