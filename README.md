@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0661-image-smoother](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0645-set-mismatch](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [2305-fair-distribution-of-cookies](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
