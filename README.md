@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0704-binary-search) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
