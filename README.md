@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
