@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0965-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0965-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0654-maximum-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0654-maximum-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Backtracking
 |  |
