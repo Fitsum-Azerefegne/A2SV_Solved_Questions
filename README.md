@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0965-univalued-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0994-rotting-oranges) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -612,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Fitsum-Azerefegne/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
